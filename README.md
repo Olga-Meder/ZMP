@@ -1,2 +1,2 @@
 # ZMP
-Projekt realizowany w ramach kursu Zaawansowane metody programowania 
+Projekt realizowany w ramach kursu Zaawansowane Metody Programowania 

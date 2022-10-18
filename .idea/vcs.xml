@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ZMP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git@github.com:Olga-Meder/ZMP.git" vcs="Git" />
   </component>
 </project>
